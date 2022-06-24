@@ -1,1 +1,1 @@
-this change the current user to user "betty"
+this print the effective user name of the current user
