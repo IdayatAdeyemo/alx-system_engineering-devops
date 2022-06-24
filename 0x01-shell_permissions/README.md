@@ -1,1 +1,1 @@
-this add execute permission to owner and group owner and the other user to the file "hello"
+this adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
