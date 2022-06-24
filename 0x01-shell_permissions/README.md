@@ -1,1 +1,1 @@
-this print the groups in which the current user belongs to
+this change the file "hello" ownership to betty
