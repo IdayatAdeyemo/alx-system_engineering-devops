@@ -1,1 +1,1 @@
-this set mode of file "hello" same as another file "olleh"
+this restrict owner and group permission but grant other user all the permission
