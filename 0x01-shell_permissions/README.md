@@ -1,1 +1,1 @@
-add execution permision to the owner of a file
+these change the group ownership of the file "hello" to school
