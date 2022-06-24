@@ -1,1 +1,1 @@
-this change the file "hello" ownership to betty
+creates an empty file called "hello"
