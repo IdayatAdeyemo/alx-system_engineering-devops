@@ -1,1 +1,1 @@
-set file mode to 753
+this change the owner and ownership group to vicent and staff
