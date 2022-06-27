@@ -1,1 +1,1 @@
-print the content of passwd
+to display a confused smiley
