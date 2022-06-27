@@ -1,1 +1,1 @@
-to print last 10 lines of the passwd
+to print first 10 lines of the passwd
