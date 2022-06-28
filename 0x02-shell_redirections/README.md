@@ -1,1 +1,1 @@
-to print all lines without the pattern "bin"
+to print last 10 newest files
