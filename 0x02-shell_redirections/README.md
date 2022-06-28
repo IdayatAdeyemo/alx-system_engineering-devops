@@ -1,1 +1,1 @@
-replace A with Z and c with e respectively
+to print all lines
