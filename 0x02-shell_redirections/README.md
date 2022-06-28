@@ -1,1 +1,1 @@
-to print all lines
+to print all lines without the pattern "bin"
